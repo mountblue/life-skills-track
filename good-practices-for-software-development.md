@@ -48,3 +48,11 @@
 * We recommend tracking your time using app like [Boosted](https://play.google.com/store/apps/details?id=com.boostedproductivity.app&hl=en_IN) to improve productivity.
 * Make sure you manage your food situation well. Too little food or too much food lead to lower levels of concentration.
 * Make sure you do some exercise to keep your energy levels high throughout the day.
+
+## Review Questions
+
+## Question 1
+What is your one major takeaway from each one of the 6 sections. So 6 points in total.
+
+## Question 2
+Which area do you think you need to improve on? What are your ideas to make progress in that area?
