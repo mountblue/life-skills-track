@@ -67,7 +67,16 @@ Follow basic English language rules:
  - One third for reviewing
 * If you have 9 minutes, spent 3 minutes each
 * Always spellcheck
-* While writing emails, be aware of principles of assertive communication - understanding your needs, communicating about them while being in harmony with the needs of the other person.
+* While writing emails, be aware of principles of assertive communication - understanding your needs, communicating about them while being in harmony with the needs of the other person. (From Assertive Communication module, ignore if not done already)
+
+Common feedback point in Emails:
+
+* Proper name and email signature on Migadu platform.
+* Consistent English - space after comma and full stop, capitalize first character of word.
+* Use paragraphs. Do not start lines with gap. One newline between 2 paragraphs - makes content readable
+* Properly mention the dates in your leaves email.
+* Bullet points used for information. Drop the extra fluff. Remove all I's in the bullet point section. Only in introduction and daily updates emails.
+* And finally, please use spelling and grammar checker. It does not matter which one you use but please use one.
 
 #### Email Exercises
 

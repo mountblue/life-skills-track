@@ -88,7 +88,7 @@ If you are not convinced, you can read [benefits of meditation](https://www.heal
 Video - 19:18 minutes - [https://www.youtube.com/watch?v=5MuIMqhT8DM](https://www.youtube.com/watch?v=5MuIMqhT8DM)
 
 ### Question 4
-Paraphrase the Sleep is your Superpower video in detail.
+Paraphrase the Sleep is your Superpower video in your own words in brief. Only the points, no explanation.
 
 ### Question 5
 What are some ideas that you can implement to sleep better?
@@ -97,7 +97,7 @@ What are some ideas that you can implement to sleep better?
 Video - 13:02 minutes - [https://www.youtube.com/watch?v=BHY0FxzoKZE](https://www.youtube.com/watch?v=BHY0FxzoKZE)
 
 ### Question 6
-Paraphrase the video - Brain Changing Benefits of Exercise. Minimum 5 points.
+Paraphrase the video - Brain Changing Benefits of Exercise. Minimum 5 points, only the points.
 
 ### Question 7
 What are some steps you can take to exercise more?

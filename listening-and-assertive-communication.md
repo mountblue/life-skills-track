@@ -61,4 +61,4 @@ When do you switch into Aggressive communication styles in your day to day life?
 When do you switch into Passive Aggressive (sarcasm/gossiping/taunts/silent treatment and others) communication styles in your day to day life?
 
 #### Question 8
-How can you make your communication assertive? You can analyse the videos  and then think what steps you can apply in your own life? (Watch the videos first before answering this question.)
+How can you make your communication assertive? You can watch and analyse the videos, then think what would be a few steps you can apply in your own life? (Watch the videos first before answering this question.)

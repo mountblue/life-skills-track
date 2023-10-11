@@ -1,6 +1,6 @@
 # Prevention of Sexual Harassment
 
-Please go through the given resources and answer the following questions in as much detail as possible.
+Please go through the given resources and try to answer the following 2 questions concisely.
 
 ## Questions:
 
@@ -10,10 +10,10 @@ Please go through the given resources and answer the following questions in as m
 ## Compulsory Resources:
 
 1. Video - Sexual Harassment Overview : 2 minutes 47 seconds - [https://www.youtube.com/watch?v=Ue3BTGW3uRQ](https://www.youtube.com/watch?v=Ue3BTGW3uRQ)
+
 2. Video - What Does Bullying and Harassment Mean for You and Your Workplace? : 4 minutes 6 seconds - [https://www.youtube.com/watch?v=u7e2c6v1oDs](https://www.youtube.com/watch?v=u7e2c6v1oDs)
 
-## Optional Resources for more in depth understanding:
-Video - Sexual Harassment - 32 minutes 15 minutes. This video covers different scenarios and what action to take.
+3. Video - Sexual Harassment - 32 minutes 15 minutes. This video covers different scenarios and what action to take.
 
 * Explains different scenarios enacted by actors.
 * How to handle cases of harassment?

@@ -21,7 +21,7 @@ Video: 4:52 seconds - [https://www.youtube.com/watch?v=Jkl1vMNvvHU](https://www.
 Video: 7:30 minutes- [https://www.youtube.com/watch?v=gTaJhjQHcf8](https://www.youtube.com/watch?v=gTaJhjQHcf8)
 
 ### Question 2
-Paraphrase all the ideas in the above videos and this one **in detail**.
+According to author how to do deep work properly, in a few points?
 
 ### Question 3
 How can you implement the principles in your day to day life?
@@ -30,7 +30,7 @@ How can you implement the principles in your day to day life?
 Video: 13:50 minutes - [https://www.youtube.com/watch?v=3E7hkPZ-HTk](https://www.youtube.com/watch?v=3E7hkPZ-HTk)
 
 ### Question 4
-Your key takeaways from the video
+What are the dangers of social media, in brief?
 
 ## 6. Intentionally creating diffused mode in your life
 

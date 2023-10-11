@@ -52,7 +52,7 @@
 ## Review Questions
 
 ### Question 1
-What is your one major takeaway from each one of the 6 sections. So 6 points in total.
+Which point(s) were new to you?
 
 ### Question 2
 Which area do you think you need to improve on? What are your ideas to make progress in that area?
