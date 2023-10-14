@@ -60,6 +60,10 @@ Focusing on energy sources provide a solid foundation to remain in the **Excitem
 2. Conversations
 3. Laughter
 
+### Spiritual Energy Sources
+1. Helping others
+2. Doing Nothing or Meditation (similar to Ether element in physical section)
+
 ### Intellectual Energy Sources
 1. Learning something new
   - Fulfills the need for novelty
