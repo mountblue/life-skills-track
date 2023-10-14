@@ -15,7 +15,7 @@ You can find extensions for other editors as well
 ## Points to Keep in Mind
 
 * **Write in your own words and code**
-* Minimum 500 words
+* Minimum 100 words
 * Document all reference links that you have used
 * Basic English punctuation is extremely important
 * Use a grammar checker like Grammarly
