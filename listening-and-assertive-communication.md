@@ -43,7 +43,7 @@ What can you do to improve your listening?
 
 A few random and funny examples to illustrate the above:
 
-* Types of Communication - Spongebob - 2:50 minutes - [https://www.youtube.com/watch?v=yjOWXsDt87Y](https://www.youtube.com/watch?v=yjOWXsDt87Y)
+* Types of Communication - Spongebob - 2:50 minutes - [https://www.youtube.com/watch?v=mixJEpGTvGw](https://www.youtube.com/watch?v=mixJEpGTvGw)
 * Spongebob Assertiveness Training - Starts at passiveness ends at aggressiveness - 2:23 minutes - [https://www.youtube.com/watch?v=SYuboi4GWO4](https://www.youtube.com/watch?v=SYuboi4GWO4)
 
 ### Explainer Videos:
