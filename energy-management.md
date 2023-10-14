@@ -13,7 +13,9 @@ The image below lists the four emotional quadrants:
 
 The idea is to remain in the Excitement, Stress and Calm quadrants for a more happy, calm and engaging life.
 
-Stress is an inevitable part of life. We get stressed whether learning something new or doing an intense workout. But staying stressed too long can cause a burnout or make us anxious and depressed.
+Stress is an inevitable part of life. We get stressed whether learning something new or doing an intense workout. Stress helps us to grow. But staying stressed too long can cause a burnout or make us anxious and depressed.
+
+One of the ways to be less stressful is 'Feeling the stress and completing the task'. This improves our skill level and we will feel less stress in the future.
 
 If we welcome stress with the right mindset and then switch to activities in Calm quadrant to relax and recover, we can get the best out of life.
 
@@ -30,18 +32,50 @@ When do you find getting into the Stress quadrant?
 ### Question 3:
 How do you understand if you are in the Excitement quadrant?
 
-## 2. Strategies to deal with Stress
+## 2. Understanding Energy Sources
 
-Listed below are many strategies to beat stress. In the session, we will mostly focus on the long term strategies that provide a solid foundation to remain in the **Excitement** and **Calm** quadrants.
+Focusing on energy sources provide a solid foundation to remain in the **Excitement** and **Calm** quadrants.
 
-### Long Term
+### Physical Energy Sources
+1. Ether
+  - Physical Rest - sleep, nap or lying down
+  - Physiological Rest - Gap between last meal of previous day and today's first meal
+  - Psychological Rest - Rest from stimulation
+2. Air
+  - Ample exercise
+  - Exercise stabilises the hormonal balance of the body.
+3. Sunlight
+  - Exposure to sunlight
+  - Sunlight is a catalyst for most of the hormone synthesis in human body.
+4. Water
+  - Water rich foods like raw fruits and vegetables
+  - Staying hydrated
+5. Earth
+  - We consume electrons from earth. This makes our charge neutral. Without this the body is slightly positive in charge.
+  - Barefoot exposure to earth for at least 1 hour a day
+
+### Emotional Energy Sources
+1. Hobbies
+  - Engaging in things without any agenda of completion or improvement or proving
+2. Conversations
+3. Laughter
+
+### Intellectual Energy Sources
+1. Learning something new
+  - Fulfills the need for novelty
+2. Challenging yourself
+3. Journaling or Introspection
+  - Connecting to the past experiences. Reflecting and forming insights.
+
+### Actions divided by long term or short term effects
+#### Long Term Practical Steps
 
 * **Feeling the stress and completing the task**
-* **Good Sleep Routine**
-* **Sufficient Physical Movement**
-* **Light Exercise**
-* **Meditation**
-* **Good structure and daily routine - having time for eating, sleeping, working and chilling**
+* Good Sleep Routine
+* Sufficient Physical Movement
+* Light Exercise
+* Meditation
+* Good structure and daily routine - having time for eating, sleeping, working and chilling
 * Yoga
 * Pranayama
 * Sports
@@ -50,7 +84,7 @@ Listed below are many strategies to beat stress. In the session, we will mostly 
 * Helping Others - Acts of Kindness
 * Developing Insight and Self Awareness
 
-### Short Term
+#### Short Term
 
 * Guided Imagery
 * Progressive Muscle Relaxation (like Shavasana)
@@ -58,7 +92,7 @@ Listed below are many strategies to beat stress. In the session, we will mostly 
 * Taking a walk
 * 5, 4, 3, 2, 1 (Counting down when angry)
 
-### Fast Acting
+#### Fast Acting
 
 * Hug from a loved one
 * Aromatherapy
