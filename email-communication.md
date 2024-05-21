@@ -54,7 +54,7 @@ Follow basic English language rules:
 * Use active voice
 * Use simple English
 * No random commas or full stops. Be consistent. Stick to your writing style.
-* No space before punctuation. Single space before punctuation.
+* No space before punctuation - comma or full stop. Single space after punctuation - comma or full stop.
 * Capitalisation only in proper nouns, start of sentence or  abbreviation
 * Use proper bullet point. Use the button in the email editor.
 * Don't use extra sentences. Keep emails short and crisp.
@@ -72,7 +72,7 @@ Follow basic English language rules:
 Common feedback point in Emails:
 
 * Proper name and email signature on Migadu platform.
-* Consistent English - space after comma and full stop, capitalize first character of word.
+* Consistent English - space after comma and full stop, capitalize first character of word in a sentence.
 * Use paragraphs. Do not start lines with gap. One newline between 2 paragraphs - makes content readable
 * Properly mention the dates in your leaves email.
 * Bullet points used for information. Drop the extra fluff. Remove all I's in the bullet point section. Only in introduction and daily updates emails.
@@ -108,7 +108,7 @@ Send your work log for yesterday. Tasks done yesterday, plan for today and any r
 
 **No bullet points**
 
-You are sick and have consulted the doctor. Write an email requesting 2 days of sick leave. Mention dates. Short crisp email with 2 to 4 sentences. No bullet points.
+You are sick and have consulted the doctor. Write an email requesting 2 days of sick leave. **Mention dates**. Short crisp email with 2 to 4 sentences. No bullet points.
 
 ##### Email 4 - Requesting credentials for Git and Staging Server
 
@@ -120,7 +120,7 @@ You need git access and staging server credentials to do your work properly. Wri
 
 **No bullet points**
 
-You need a longer vacation - around 5 days for Diwali/Holi/Eid to visit your family and spend time with them. Write an email with the request. Mention dates. Short crisp email with 2 to 4 sentences. No bullet points.
+You need a longer vacation - around 5 days for Diwali/Holi/Eid to visit your family and spend time with them. Write an email with the request. **Mention dates**. Short crisp email with 2 to 4 sentences. No bullet points.
 
 ##### Email 6 - Requesting Feedback Session
 
