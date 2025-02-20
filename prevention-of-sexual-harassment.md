@@ -9,13 +9,15 @@ Please go through the given resources and try to answer the following 2 question
 
 ## Compulsory Resources:
 
-1. Video - Sexual Harassment Overview : 2 minutes 47 seconds - [https://www.youtube.com/watch?v=Ue3BTGW3uRQ](https://www.youtube.com/watch?v=Ue3BTGW3uRQ)
+1. MountBlue PoSH Document - [https://drive.google.com/file/d/1wrT03caeDwwKB50wV-MQ3hnm2wJZGuq2/view?usp=sharing](https://drive.google.com/file/d/1wrT03caeDwwKB50wV-MQ3hnm2wJZGuq2/view?usp=sharing)
 
-2. Video - What Does Bullying and Harassment Mean for You and Your Workplace? : 4 minutes 6 seconds - [https://www.youtube.com/watch?v=u7e2c6v1oDs](https://www.youtube.com/watch?v=u7e2c6v1oDs)
+2. Video - Sexual Harassment Overview : 2 minutes 47 seconds - [https://www.youtube.com/watch?v=Ue3BTGW3uRQ](https://www.youtube.com/watch?v=Ue3BTGW3uRQ)
 
-3. Video - Sexual Harassment - 32 minutes 15 minutes. This video covers different scenarios and what action to take.
+3. Video - What Does Bullying and Harassment Mean for You and Your Workplace? : 4 minutes 6 seconds - [https://www.youtube.com/watch?v=u7e2c6v1oDs](https://www.youtube.com/watch?v=u7e2c6v1oDs)
 
-* Explains different scenarios enacted by actors.
+4. Video - Sexual Harassment - 32 minutes 15 minutes. This video covers different scenarios and what action to take.
+
+* Explainers for different scenarios enacted by actors.
 * How to handle cases of harassment?
 * How to behave appropriately?
 
